@@ -9,6 +9,18 @@ app.get("/teste",(req,res)=>{
     res.send("Bem vindo")
 })
 
+app.get("/perfil",(req,res)=>{
+    res.send("Bem vindo")
+})
+
+app.get("/login",(req,res)=>{
+    res.send("Bem vindo")
+})
+
+app.get("/produto",(req,res)=>{
+    res.send("Bem vindo")
+})
+
 //ROTA PRODUTO - CREATE
 
 
